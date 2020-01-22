@@ -1,5 +1,6 @@
 # Practica2-EscuelaJava
 
+Postulante: Kevin Gutiérrez Flores
 Escuela Java 22/01/2020
 Apruebeme profe :'v
 
