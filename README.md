@@ -5,6 +5,6 @@ Apruebeme profe :'v
 
 Implementado:
 - Gateway con página Index (routes: empleado-ms, empresa-ms)
-- Feign (Implemente solo el nombre de empresa)
-- empleado-ms
-- empresa-ms
+- Feign de Empresa (Implemente con el nombre de empresa)
+- empleado-ms (GET - empleadoDTO)
+- empresa-ms (GET - nombreEmpresaDTO)
